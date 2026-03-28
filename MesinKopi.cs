@@ -98,7 +98,7 @@ namespace MOD4_103022400143
         }
 
         public void gagal() {
-            if (status == "A")
+            if (status == "B")
             {
                 Console.WriteLine("Mesin Standby berubah menjadi Off");
                 status = "OFF";
